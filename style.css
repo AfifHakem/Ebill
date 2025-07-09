@@ -1,0 +1,10 @@
+body {
+  background: #fff8e7;
+  font-family: 'Scheherazade', serif;
+  direction: rtl;
+  color: #333;
+}
+a {
+  color: darkgreen;
+  font-weight: bold;
+}
